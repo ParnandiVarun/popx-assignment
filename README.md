@@ -17,4 +17,8 @@
 
 ## Live Demo
 
+https://popx-assignment-three.vercel.app/
+
 ## GitHub Repo
+
+https://github.com/ParnandiVarun/popx-assignment
